@@ -1,5 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-My boss is stupid.
+1,进入到BrowserSync文件夹下
+2,键入node start.js即可
